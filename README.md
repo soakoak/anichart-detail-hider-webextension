@@ -5,3 +5,5 @@ The webextension removes series description sections from the series listed in A
 
 ![Anichart before](http://i.imgur.com/B2IHWZ5.jpg)
 The view is toggled from buttons at right top. You may need to refresh the page for the extension to work.
+
+This project is licensed under the terms of the MIT license.
